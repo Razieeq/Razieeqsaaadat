@@ -436,7 +436,7 @@ class Main:
 		print(" \033[1;39m\033[1;31m【1】 \033[1;36mBest Crack File Cloning\033[0;92m   ✓ (Best)")
 		print(" \033[1;39m\033[1;32m【2】 \033[1;34mCrack Public Id's")
 		print(" \033[1;39m\033[1;33m【3】 \033[1;33mFacebook id help ")
-		print(" \033[1;39m\033[1;34m【4】 \033[1;32mAFG Mix Cloning Id's 2011 -2023 \033[0;92m ✓ (Best)")
+		print(" \033[1;39m\033[1;34m【4】 \033[1;32mMix Cloning Id's 2011 -2023 \033[0;92m ✓ (Best)")
 		print(" \033[1;39m\033[1;35m【5】 \033[1;37mOld Cloning Id's 2006-10 \033[0;92m  ✓ (Best) ")
 		print(" \033[1;39m\033[0;91m【E】 Exit \n")
 		MAINUL =input(" \033[1;35mChoice : ")
@@ -475,11 +475,7 @@ class Main:
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
 				print("\n\033[1;32m [1] Ex(123456-786786-123456789-12345...) FOR Old IDZ\033[1;37m ")
-				print("\n\033[1;32m [2] Ex(afghan-khan123-kabul123-100200...) FOR AFG Mix IDZ\033[1;37m ")
 				listpass = input("%s [1] ENTER PASSWORD :%s "%(G,Y))
-				listpass = input("%s [2] ENTER PASSWORD :%s "%(G,Y))
-				listpass = input("%s [3] ENTER PASSWORD :%s "%(G,Y))
-				listpass = input("%s [4] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6-10 CHARACTERS"%(B))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(G,listpass))
@@ -909,11 +905,7 @@ class Main:
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
 				print("\n\033[1;32m [1] Ex(123456-786786-123456789-12345...) FOR Old IDZ\033[1;37m ")
-				print("\n\033[1;32m [2] Ex(afghan-khan123-kabul123-100200...) FOR AFG Mix IDZ\033[1;37m ")
 				listpass = input("%s [1] ENTER PASSWORD :%s "%(G,Y))
-				listpass = input("%s [2] ENTER PASSWORD :%s "%(G,Y))
-				listpass = input("%s [3] ENTER PASSWORD :%s "%(G,Y))
-				listpass = input("%s [4] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6-10 CHARACTERS"%(B))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(G,listpass))

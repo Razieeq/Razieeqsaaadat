@@ -471,24 +471,6 @@ class Main:
 				_ = random.randint(x,xx)
 				__ = idx
 				self.id.append(__+str(_))
-				# AFG CHECK
-def i():
-    user=["5", "05"]:
-    twf =[]
-    os.getuid
-    os.geteuid
-    os.system("clear")
-    jalan(logo)
-    
-    
-    jalan("\033[1;37m\t  USE OUR COUNTRY CODE  ")
-    jalan('\033[1;36m     \t     AFG CODES\n     \033[1;33m9377, \033[1;33m9378 ,\033[1;33m9370 ,\033[1;33m9379  ...\033[0;97m')
-    jalan('\033[1;32m============================================')
-    jalan('\033[1;36m     \t     INDIA CODES\n     \033[1;33m91778, \033[1;33m91930 ,\033[1;33m91902 ,\033[1;33m91712  ...\033[0;97m')
-    jalan('\033[1;32m============================================')
-    jalan('\033[1;36m     \t     PAK CODES\n     \033[1;33m92301, \033[1;33m92302 ,\033[1;33m92303 ,\033[1;33m92305  ...\033[0;97m')
-    jalan('\033[1;32m============================================\n')
-    code = input(' PUT CODE : ')
 			
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:

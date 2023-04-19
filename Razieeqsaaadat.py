@@ -386,14 +386,14 @@ logo = """\033[1;30m
 \033[1;39m .##...##.........##.##.....##
 \033[1;32m .##....##..##....##.##.....##
 \033[1;39m .##.....##..######..##.....##
-\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37mSaadat\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+\033[0;95m••••••••••••••••••••••••••••••••••••••••••••••
 \033[1;39m[+]\033[0;91mOWNER    \033[1;39m   :\033[1;33m MR Saadat
 \033[1;39m[+]\033[0;91mTEAM    \033[1;39m      :\033[1;31m TEAM OF Saadat
 \033[1;39m[+] \033[0;91mYOUTUBE  \033[1;39m : \033[1;32m Saadat Techznicl
 \033[1;39m[+] \033[0;91mFACEBOOK \033[1;39m : \033[1;33m Raziqullah Saadat
 \033[1;39m[+]\033[0;91m Wharsapp  \033[1;39m :\033[0;92m +93702856593
 \033[1;39m[+]\033[0;91mVERSION  \033[1;39m    : \033[1;31m2.0.3
-\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37mSaadat\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●"""
+\033[0;95m••••••••••••••••••••••••••••••••••••••••••••••"""
  
 class Main:
 	def __init__(self):
@@ -404,9 +404,9 @@ class Main:
 		os.system("clear")
 		print(logo)
 		
-		print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37mSaadat\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
+		print("\033[1;33m     ••••••••••••••••••••••••••••••••••••••••••••••")
 		print("\033[1;37m     FIRST OF ALL SUBSCRIBE MY CHANNEL")
-		print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37mSaadat\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
+		print("\033[1;33m     ••••••••••••••••••••••••••••••••••••••••••••••")
 		
 		print(" \033[1;39m━▷\033[1;32m [1] SUBSCRIBE THE CHANNEL FOR APPROVED")
 		print(" \033[1;39m━▷\033[1;31m [2] Exit")
@@ -432,7 +432,7 @@ class Main:
 			os.system("clear")
 		print(logo)
 		print(" \033[1;37m[▪]Select Option")
-		print("\033[0;90m \033[1;33m●▬▬▬▬▬▬▬▬▬▬▬●\033[1;37mSaadat\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬●")
+		print("\033[0;90m \033[1;33m••••••••••••••••••••••••••••••••••••••••••••••")
 		print(" \033[1;39m\033[1;31m【1】 \033[1;36mBest Crack File Cloning\033[0;92m   ✓ (Best)")
 		print(" \033[1;39m\033[1;32m【2】 \033[1;34mCrack Public Id's")
 		print(" \033[1;39m\033[1;33m【3】 \033[1;33mFacebook id help ")
@@ -485,7 +485,7 @@ class Main:
 				print("\n\033[1;32m [+] CRACK HAS BEEN STARTED")
 				print(" \033[1;37m[+] Note: Ok Open 70% JUST NOW")
 				print(" [!] IF NO RESULT USE AIRPLANE MODE ON & OFF 5 SECONDS")
-				print("\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37mSaadat\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●")
+				print("\033[0;95m••••••••••••••••••••••••••••••••••••••••••••••")
 				print("\n")
 				print("\033[0;97m")
 				for user in self.id:
@@ -916,7 +916,7 @@ class Main:
 				print("\n\033[0;94m [+] BRUTE HAS BEEN START")
 				print(" \033[0;96m[+] Note: Ok Open 70% just now")
 				print(" [!] IF NO RESULT USE AIRPLANE MODE 5 SECONDS")
-				print("\033[0;94m--------------------------------------------")
+				print("\033[0;94m••••••••••••••••••••••••••••••••••••••••••••••")
 				print("\n")
 				print("\033[0;97m")
 				for user in self.id:

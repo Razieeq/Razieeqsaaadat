@@ -1,6 +1,6 @@
 # Source Generated with Decompyle++
 # File: test.pyc (Python 3.9)
- 
+
 import os
 import sys
 import time
@@ -8,15 +8,15 @@ import requests
 import uuid
 os.system('git pull')
 os.system('pkg install curl')
- 
+
 class jalan:
     
     def __init__(self, z):
         pass
- 
- 
+
+
 logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m       888   d8P   888   Y88b d88P  Y88b \n\x1b[1;35m       888  d8P    888    888 Y88b.      \n\x1b[1;32m       888d88K     888   d88P  "Y888b.   \n\x1b[1;32m       8888888b    8888888P"      "Y88b. \n\x1b[1;35m       888  Y88b   888 T88b         "888 \n\x1b[1;35m       888   Y88b  888  T88b  Y88b  d88P \n\x1b[1;32m       888    Y88b 888   T88b  "Y8888P"  \n\n\x1b[1;37m================= \x1b[32;45mKASHIF\x1b[0;m =====================\n\x1b[1;32m     \x1b[1;33mCREATED BY\x1b[0;m   :  \x1b[1;33mARYAN\x1b[0;m\x1b[1;32m && \x1b[1;33mKASHIF\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m ArYan KhAn\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-KRS\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS FREE\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mKRS\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m================= \x1b[32;45mARYAN\x1b[0;m =====================\n\n       \x1b[37;41m\t WELLCOME TO KRS TOOL\x1b[0;m\n\n\x1b[1;37m================== \x1b[32;45mNIDA\x1b[0;m ======================\n'
- 
+
 def ud():
     os.system('clear')
     jalan(logo)
@@ -28,8 +28,8 @@ def ud():
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
- 
- 
+
+
 def FD():
     os.system('clear')
     print(logo)
@@ -41,8 +41,8 @@ def FD():
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
- 
- 
+
+
 def o():
     os.system('clear')
     jalan(logo)
@@ -69,8 +69,8 @@ def o():
         os.system('exit')
         return None
     None('\n\x1b[1;31m  Choose valid option\x1b[0;97m')
- 
- 
+
+
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system("git pull")
 from bs4 import BeautifulSoup as sop
@@ -251,11 +251,11 @@ def i():
     
     
     jalan("\033[1;37m\t  USE OUR COUNTRY CODE  ")
-    jalan('\033[1;36m     \t     PAK CODES\n     \033[1;33m92301, \033[1;33m92302 ,\033[1;33m92303 ,\033[1;33m92305  ...\033[0;97m')
+    jalan('\033[1;36m     \t     AFG CODES\n     \033[1;33m9377, \033[1;33m9378 ,\033[1;33m9370 ,\033[1;33m9379  ...\033[0;97m')
     jalan('\033[1;32m============================================')
     jalan('\033[1;36m     \t     INDIA CODES\n     \033[1;33m91778, \033[1;33m91930 ,\033[1;33m91902 ,\033[1;33m91712  ...\033[0;97m')
     jalan('\033[1;32m============================================')
-    jalan('\033[1;36m     \t     BD CODES\n     \033[1;33m88016, \033[1;33m88017 ,\033[1;33m88018 ,\033[1;33m88019  ...\033[0;97m')
+    jalan('\033[1;36m     \t     PAK CODES\n     \033[1;33m92301, \033[1;33m92302 ,\033[1;33m92303 ,\033[1;33m92305  ...\033[0;97m')
     jalan('\033[1;32m============================================\n')
     code = input(' PUT CODE : ')
     print("")
@@ -356,4 +356,3 @@ def rcrack(uid,pwx,tl):
         pass
  
 ud()
- 

